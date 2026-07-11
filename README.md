@@ -24,7 +24,7 @@ Features
 
   Contributor Update
 
-  Contributor Name: Rassel John R. Dizon
+  Contributor Name: Justine Del Valle
 
   Feature Added:
   -Digital Library Dashboard
