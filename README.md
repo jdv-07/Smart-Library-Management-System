@@ -22,6 +22,13 @@ Features
 - Delete Member Record
 - Search Member
 
+  Contributor Update
+
+  Contributor Name: Rassel John R. Dizon
+
+  Feature Added:
+  -Digital Library Dashboard
+
 Branch Protection
 TEST
 
