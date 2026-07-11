@@ -10,7 +10,7 @@ Project Modules
 - Returning
 
 Development Team
-Student Name: Del Valle, Justine D.
+Student Name: Rassel John R. Dizon
 Course: IT 3012
 Section: BSIT BA 2C
 
@@ -29,7 +29,4 @@ Features
   Feature Added:
   -Digital Library Dashboard
 
-Branch Protection
-TEST
 
-_Last updated during GitHub Actions laboratory._
